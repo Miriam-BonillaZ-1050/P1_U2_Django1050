@@ -13,6 +13,6 @@ Configuraciones básicas para trabajar con el framework de Django.
 - 10.- Instalar Django --> python -m pip install django.
 - 11.- Creando el proyecto--> django-admin startproject webPumaPro_proy .
 - 12.- Realizar migracion del proyecto. --> python manage.py migrate
-- 13.- Ejecutar servidor. --> python manage.py runserver.
+- 13.- Ejecutar servidor. --> python manage.py runserver
 - Me trabajo el proyecto.
 
