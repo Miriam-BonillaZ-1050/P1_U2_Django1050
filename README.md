@@ -6,7 +6,7 @@ Configuraciones básicas para trabajar con el framework de Django.
 - 3.- Abrir terminal de VS Code.
 - 4.- Verificar que es Python y su version en terminal. -->  python --version
 - 5.- Link vs code Django. --> https://code.visualstudio.com/docs/python/tutorial-django
-- 6.- Crear el entorno de trabajo. --> python -m virtualenv. venv
+- 6.- Crear el entorno de trabajo. --> py -3 -m venv .venv
 - 7.- Activar el entorno. --> .venv\scripts\activate.bat
 - 8.- Seleccionar interprete de Python. --> Presiona F1
 - 9.- Phyton. --> python -m pip install --upgrade pip
